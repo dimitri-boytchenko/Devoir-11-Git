@@ -1,0 +1,16 @@
+Tache:
+1. Создайте новый проект и подключите в него Git через терминал
+2 - в вашем проекте будут игнорироваться все файлы с расширением .sass и папки: bin, admin, config.
+3. добавьте все файлы в локальное хранилище
+4. создайте новую ветку и перейдите в неё
+5. в новой ветке создайте папку blog с файлами: index.js, index.html;
+6. загрузите на удаленный репозиторий лишь основную ветку вашего проекта.
+
+terminal:
+git init
+git config --global user.name boytchenko_dmytro
+git config --global  user.email dboytchenko1@gmai.com
+git add .
+git status
+(git rm --cached **/*) pour annuler envoie dans le  repositorie  git add. - tous les files 
+git add .
