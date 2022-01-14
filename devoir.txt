@@ -14,3 +14,9 @@ git add .
 git status
 (git rm --cached **/*) pour annuler envoie dans le  repositorie  git add. - tous les files 
 git add .
+git status
+git commit 
+initial commit
+escap
+:wq
+git status
