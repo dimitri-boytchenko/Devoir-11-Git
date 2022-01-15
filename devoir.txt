@@ -41,7 +41,11 @@ principale - dossier parent
 
 creation de nouveau file 'index.html' dans le dossier 'novajaVetka'
 
+git checkout master
 
+git merge novajaVetka // on colle - lie la branche 'novajaVetka'
+                       avec branch parent- principale master
+											 
 
 
 
