@@ -36,6 +36,11 @@ git branch novajaVetka // creation de nouvelle
 git checkout novajaVetka
 git status
 
+creation de nouvelle dossier 'novaja papka' dans le dossier 
+principale - dossier parent 
+
+creation de nouveau file 'index.html' dans le dossier 'novajaVetka'
+
 
 
 
