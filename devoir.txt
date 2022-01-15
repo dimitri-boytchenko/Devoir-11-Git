@@ -46,6 +46,17 @@ git checkout master
 git merge novajaVetka // on colle - lie la branche 'novajaVetka'
                        avec branch parent- principale master
 											 
+git remote
+
+pour se connecer au GitHub repositorie il nous faut:
+git remote add origin https://github.com/dimitri-boytchenko/Devoir-11-Git.git
+
+git remote  // origin - signifie qie on est connecté
+
+pour charger les dossier et files sur Github repositorie:
+git push -u origin master
+
+
 
 
 
