@@ -54,7 +54,17 @@ git remote add origin https://github.com/dimitri-boytchenko/Devoir-11-Git.git
 git remote  // origin - signifie qie on est connecté
 
 pour charger les dossier et files sur Github repositorie:
+
 git push -u origin master
+
+Creation de file 'README.md'
+
+git add .
+git commit -m 'creation de file README.md '
+
+git push // pour envoyer sur github repositorie
+
+
 
 
 
