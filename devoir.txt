@@ -30,6 +30,20 @@ on  ajout dans le file .gitignore :
 /admin
 /config
 
+4.
+git branch novajaVetka // creation de nouvelle
+                          branche 'novajaVetka';
+git checkout novajaVetka
+git status
+
+
+
+
+
+
+
+
+
 
 
 
