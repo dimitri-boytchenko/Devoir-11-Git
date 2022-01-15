@@ -83,7 +83,7 @@
 - suprimer tous les commits jusqu'a un commit precis
    -> tous les commits apres ce commit seront suprime:
       git reset id_commit
-   -> mais le dossier et fail rest le mmeme 
+   -> mais le dossier et fail rest le meme 
 
 - pour suprimer les commits apres un commits precis et revenir 
   sur le meme etat de fail avec les meme donnes 
