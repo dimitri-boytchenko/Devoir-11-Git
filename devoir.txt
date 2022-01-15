@@ -20,3 +20,9 @@ initial commit
 escap
 :wq
 git status
+git commit -m 'nom de creation de dossier'
+.gitignore    // on crea le file dans le dossier parent
+(creation de dossier pour ignore l'envoie dans le repositorie de dossiers que on a  choisi) - il vont pas ajouter dans le repositorie
+
+
+
